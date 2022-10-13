@@ -1,0 +1,43 @@
+body {
+    background-color:#FFD1D1;
+}
+
+hr{
+    background-color:#FFD1D1;
+    border-color: gray;
+    border-style:dotted none none;
+    border-width: 8px;
+    height:0px;
+    width: 4%;
+}
+
+h1{
+    color:#580050;
+}
+
+h1:hover{
+    text-shadow: 2px 2px 3px rgb(50, 0, 43);
+}
+
+h2{
+    color:#580050;
+}
+
+h2:hover{
+    color: rgb(190, 0, 171);
+}
+
+h3{
+    color:#580050;
+}
+p{
+    text-shadow: inherit;
+}
+
+.surya{
+    border: 2px solid #580050;
+}
+
+.surya:hover{
+    border: 5px solid #580050;
+}
